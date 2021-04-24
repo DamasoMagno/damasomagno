@@ -1,14 +1,15 @@
-<h1>Olá</h1>
+<h1>Olá 👊</h1>
 
 <p>
-  Muito prazer me chamo Damaso, atualmente atuo como programador Frontend Júnior com JavaScript e estou com constante evolução principalmente
-  nos estudos de ReactJs
+  Muito prazer me chamo Damaso, atualmente atuo como programador Frontend Júnior com JavaScript e estou em constante evolução principalmente
+  nos estudos focados em ReactJs
 </p>
 
-<p>Ferramentas: </p>
+<h2>Ferramentas: </h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>ReactJs</li>
+  <li>ReactJs/NextJs</li>
+  <li>NodeJs</li>
 </ul>
