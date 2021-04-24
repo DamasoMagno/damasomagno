@@ -7,5 +7,4 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>ReactJs</li>
-  <li>React Native</li>
 </ul>
