@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1>Olá</h1>
 
-<!--
-**DamasoMagno/DamasoMagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Meu nome é Damaso, atualmente atuo como programador Frontend Júnior e atualmente estou em busca de evoluir junto com React</p>
+<p>Ferramentas: </p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>ReactJs</li>
+  <li>React Native</li>
+</ul>
