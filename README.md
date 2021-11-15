@@ -1,10 +1,15 @@
-## Olá, muito prazer me chamo Damaso
+## Olá
+<p>
+ Me chamo Damaso, atualmente estou focado no desenvolvimento web envolvendo sites e api's, com foco em desenvolvimento de sites. Uso JavaScript como principal linguagem de programação e estou estudando Java, para usar em meu Estágio.
+</p>
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DamasoMagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamasoMagno&layout=compact&langs_count=5&theme=dark">
 </div>
 
+
+## Principais tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" width="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="30" width="30" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
