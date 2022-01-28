@@ -1,6 +1,6 @@
 ## Olá
 <p>
- Me chamo Damaso, atualmente estou focado no desenvolvimento web envolvendo sites e api's, com foco em desenvolvimento de sites. Uso JavaScript como principal linguagem de programação e estou estudando Java, para usar em meu Estágio.
+ Me chamo Damaso, atualmente estou focado no desenvolvimento web envolvendo sites e api's, com foco em desenvolvimento de sites. Uso JavaScript como principal linguagem de programação e Java, como linguagem alternativa para o desenvolvimento de api's.
 </p>
 
 <div>
