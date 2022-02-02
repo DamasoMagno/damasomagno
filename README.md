@@ -10,7 +10,7 @@
 
 
 ## Principais tecnologias
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Js" width="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="30" width="30" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" width="30" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
