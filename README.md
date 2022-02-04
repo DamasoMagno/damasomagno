@@ -1,6 +1,6 @@
 ## Olá
 <p>
- Me chamo Damaso, sou Desenvolvedor Web. Uso JavaScript como principal linguagem de programação e Java, como linguagem alternativa para o desenvolvimento de api's.
+ Muito prazer me chamo Damaso e sou Desenvolvedor Web. Uso JavaScript e atualmente estou focado em aprender ReactJs e NodeJs para evoluir no desenvolvimento de sites e api's. 
 </p>
 
 <div>
