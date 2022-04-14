@@ -1,6 +1,6 @@
 ## Olá
 <p>
- Muito prazer me chamo Damaso e sou Desenvolvedor Web. Uso JavaScript e atualmente estou focado em aprender ReactJs e NodeJs para evoluir no desenvolvimento de sites e api's. 
+ Muito prazer me chamo Damaso e atuo no desenvolvimento web. Atualmente estou focado em aprender ReactJs para evoluir cada vez mais. 
 </p>
 
 <div>
