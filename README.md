@@ -4,7 +4,7 @@
 - Always looking to grow
 
 ### Main Tecnologies 
-<div style="display: inline_block">
+<div>
   <img align="center" width="30" alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="30" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
