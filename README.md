@@ -1,9 +1,9 @@
-### Hi there
-- I'm Developer Freelancer
-- Working with JavaScript Stack
-- Always looking to grow
+### Hi, I'm Damaso Magno
+- Web Developer 
+- I'm currently working as freelancer
+- Working with JavaScript Stack (React & Node.js)
 
-### Main Tecnologies 
+### Tecnologies 
 <div>
   <img align="center" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="30" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +14,13 @@
   <img align="center" width="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-### Resume
+
+### Contact
+<a href="https://linkedin.com/in/damasomagno" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-damasomagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+### Analytics
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DamasoMagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamasoMagno&layout=compact&langs_count=5&theme=dark">
