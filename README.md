@@ -19,6 +19,9 @@
 <a href="https://linkedin.com/in/damasomagno" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-damasomagno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://www.devdamaso.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
 
 ### Analytics
 <div>
