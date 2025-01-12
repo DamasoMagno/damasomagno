@@ -1,7 +1,7 @@
 ### Hi, I'm Damaso Magno
 - Full Stack Developer 
 - I'm currently working as Mobile Developer
-- Working with JavaScript Stack (React & Node.js & React Native)
+- Working with JavaScript Stack (React, Node.js & React Native)
 
 ### Tecnologies 
 <div>
