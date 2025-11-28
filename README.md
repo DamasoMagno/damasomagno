@@ -1,6 +1,6 @@
 ### Hi, I'm Damaso Magno
 - Full Stack Developer 
-- I'm currently working with JavaScript Stack (React, React Native) & Spring Boot
+- I'm currently working with JavaScript Stack & Spring Boot
 
 ### Tecnologies 
 <div>
@@ -11,7 +11,7 @@
   <img align="center" width="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" width="30" alt="Next" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" width="30" alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="30" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" width="30" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 
