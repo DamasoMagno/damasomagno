@@ -2,7 +2,7 @@
 - Full Stack Developer 
 - I'm currently working with JavaScript Stack & Spring Boot
 
-### Tecnologies 
+### Stacks
 <div>
   <img align="center" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="30" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
