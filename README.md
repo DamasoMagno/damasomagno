@@ -18,7 +18,8 @@
 <div>
   <img align="center" width="30" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" width="30" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" width="30" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <img align="center" width="30" alt="Prisma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <img align="center" width="30" alt="PostgresSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" width="30" alt="Vitest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg">
 </div>
 
