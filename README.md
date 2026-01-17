@@ -2,9 +2,7 @@
 - Full Stack Developer 
 - I'm currently working with JavaScript and Java Stack
 
-### Stacks
-
-#### Frontend
+### Frontend
 <div>
   <img align="center" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="30" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,13 +14,15 @@
    <img align="center" width="30" alt="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
 </div>
 
-#### Backend
+### Backend
 <div>
+     <img align="center" width="30" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" width="30" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
-#### Tools
+### Tools
 <div>
+  <img align="center" width="30" alt="Figma" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" width="30" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
