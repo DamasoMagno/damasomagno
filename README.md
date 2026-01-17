@@ -1,8 +1,10 @@
 ### Hi, I'm Damaso Magno
 - Full Stack Developer 
-- I'm currently working with JavaScript Stack & Spring Boot
+- I'm currently working with JavaScript and Java Stack
 
 ### Stacks
+
+#### Frontend
 <div>
   <img align="center" width="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="30" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -11,8 +13,16 @@
   <img align="center" width="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" width="30" alt="Next" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" width="30" alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="30" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" width="30" alt="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+   <img align="center" width="30" alt="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+</div>
+
+#### Backend
+<div>
+   <img align="center" width="30" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+</div>
+
+#### Tools
+<div>
   <img align="center" width="30" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
