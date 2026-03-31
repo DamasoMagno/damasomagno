@@ -35,29 +35,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 
 ---
 
-## 📦 Featured Projects
-
-### 💈 Barbershop Management System *(in progress)*
-- Full SaaS for service management
-- Scheduling, clients, metrics dashboard
-- Stack: Next.js, Node.js, PostgreSQL
-
----
-
-### 📊 CRM / Management Platform
-- Visit tracking, reporting, and analytics
-- Mobile + Web integration
-- Focus on real business workflows
-
----
-
-### 📱 Mobile Applications
-- Built with React Native (Expo)
-- Real-time data + API integration
-- Focus on usability and performance
-
----
-
 ## 🧠 Technical Focus
 
 - Clean Architecture & scalable systems
@@ -65,15 +42,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 - Database modeling (SQL)
 - Performance & UX
 - End-to-end product development
-
----
-
-## 📈 GitHub Stats
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=damasomagno&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damasomagno&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
