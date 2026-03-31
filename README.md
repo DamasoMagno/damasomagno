@@ -13,8 +13,9 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 - React / Next.js (SSR, SPA, App Router)
 - State management (Zustand / Context API)
 - Forms & validation (React Hook Form + Zod)
-- Styling (Tailwind CSS / CSS Modules / Shadcn UI / Styled Componets)
-- UI/UX focus (performance, responsiveness, accessibility)
+- Styling (Tailwind CSS / CSS Modules / Shadcn UI / Styled Components)
+- UI/UX focus
+- Cache management (Tanstack Query)
 
 ---
 
@@ -25,20 +26,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 - Prisma ORM (data modeling & queries)
 - Authentication & authorization (JWT, session-based)
 - Clean architecture & service layer design
-
----
-
-### 🗄️ Database & Storage
-
-- PostgreSQL
-- SQL
-
----
-
-### 📱 Mobile
-
-- React Native (Expo)
-- API integration
 
 ---
 
