@@ -9,12 +9,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ## ⚡ Tech Stack
 
 ### 🧩 Frontend
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
 
 - React / Next.js (SSR, SPA, App Router)
 - State management (Zustand / Context API)
@@ -25,11 +19,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ---
 
 ### ⚙️ Backend
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-</div>
 
 - Node.js (REST APIs, scalable services)
 - Java + Spring Boot (enterprise-grade APIs)
@@ -40,9 +29,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ---
 
 ### 🗄️ Database & Storage
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
 
 - PostgreSQL
 - SQL
@@ -50,9 +36,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ---
 
 ### 📱 Mobile
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
-</div>
 
 - React Native (Expo)
 - API integration
@@ -60,9 +43,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ---
 
 ### 🧪 Testing
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg">
-</div>
 
 - Unit testing (Vitest & JUnit)
 - Component testing
