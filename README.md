@@ -1,6 +1,5 @@
 ### Hi, I'm Damaso Magno
-- Full Stack Developer 
-- I'm currently working with JavaScript and Java Stack
+Full Stack Developer crafting seamless digital experiences — from pixel-perfect UIs to robust, scalable APIs. I work across the full stack with a strong focus on the JavaScript and Java ecosystems.
 
 ### Frontend
 <div>
