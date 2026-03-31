@@ -51,11 +51,6 @@ Focused on **JavaScript (TypeScript) & Java ecosystems**, with experience in rea
 ---
 
 ### 🚀 DevOps & Tools
-<div>
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
-  <img align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
 
 - Docker
 - Vercel & Heroku
