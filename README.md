@@ -1,9 +1,9 @@
 # 👋 Damaso Magno
 
 
-Desenvolvedor Full Stack com mais de 2 anos de experiência no desenvolvimento de aplicações web e mobile utilizando React, Next.js, React Native, Node.js e Spring Boot. Atuo na construção de soluções com foco em performance, organização de código, componentização e boas práticas de desenvolvimento.
+Desenvolvedor Full Stack com mais de 2 anos de experiência no desenvolvimento de aplicações web e mobile utilizando React, Next.js, React Native, Node.js e Spring Boot. Atuo na construção de soluções com foco em performance, organização de código, componentização e boas práticas.
  
-Tenho experiência na implementação e evolução de funcionalidades, integrações entre sistemas e consumo de APIs REST, atuando tanto na criação de interfaces modernas e responsivas quanto na manutenção e melhoria contínua de aplicações.
+Tenho experiência na implementação e evolução de funcionalidades, integrações e consumo de APIs REST, atuando tanto na criação de interfaces modernas e responsivas quanto na manutenção e melhoria contínua de aplicações.
 
 ## 🛠️ Tech Stack
 
