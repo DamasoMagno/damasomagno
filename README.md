@@ -5,8 +5,6 @@ Desenvolvedor Full Stack com mais de 2 anos de experiência no desenvolvimento d
  
 Tenho experiência na implementação e evolução de funcionalidades, integrações entre sistemas e consumo de APIs REST, atuando tanto na criação de interfaces modernas e responsivas quanto na manutenção e melhoria contínua de aplicações.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
